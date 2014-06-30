@@ -1,3 +1,4 @@
+//使用hash+双向链表实现LRU算法
 #include <iostream>
 #include <cstdlib>
 #include <vector>
